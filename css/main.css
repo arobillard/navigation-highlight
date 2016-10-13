@@ -7,7 +7,7 @@ html {
   box-sizing: inherit;
 }
 
-body{
+body {
   margin: 0;
 }
 
@@ -55,8 +55,6 @@ nav a:hover {
   background-color: #cc1465;
 }
 
-
-
 /* ----- =Main ----- */
 
 main {
@@ -71,6 +69,7 @@ h2 {
 
 img {
   width: 100%;
+  display: block;
 }
 
 /* ----- =Footer ----- */
