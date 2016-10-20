@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font: normal 100%/1.5 "Georgia", serif;
+  font: normal 100%/1.5 Georgia, serif;
 }
 
 *, *::before, *::after {
@@ -15,7 +15,7 @@ body {
 
 header {
   background-color: #ffe500;
-  padding: 0 0 0.4em;
+  padding: 0 0 .4em;
 }
 
 h1 {
@@ -23,7 +23,7 @@ h1 {
   color: #b20953;
   text-align: center;
   font-size: 3rem;
-  margin: 0 0 0.3em;
+  margin: 0 0 .3em;
 }
 
 nav ul {
@@ -42,7 +42,7 @@ nav a {
   font-size: 1.125rem;
   color: #fff;
   text-decoration: none;
-  padding: 0.2em 0.5em 0.3em;
+  padding: .2em .5em .3em;
   background-color: #b2a212;
   border-radius: 5px;
 }
